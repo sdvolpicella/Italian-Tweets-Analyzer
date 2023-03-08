@@ -1,2 +1,0 @@
-hate_tweet_map
-tests
