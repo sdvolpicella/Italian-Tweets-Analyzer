@@ -2,7 +2,8 @@
 
 Italian tweets analyzer is a tool created for the thesis work at the University of Bari “Aldo Moro” of the course 
 “Methods for the information retrieval”. It can perform analysis on Italian tweets and it provides several features. 
-This project is an upgraded version of the tool: Hate-Tweet-Map. The main features of the program are described below. 
+This project is an upgraded version of the tool: Hate-Tweet-Map. The main features of the program are described below.
+ITA has been released on PyPI: https://pypi.org/project/Italian-Tweets-Analyzer/2.3/
 
 <h2>Tweets extraction</h2>
 
